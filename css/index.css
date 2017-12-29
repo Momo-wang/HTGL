@@ -1,0 +1,58 @@
+.navbar {
+	width: 100%;
+	height: 100%;
+}
+.alert {
+	background: #f2dede;
+}
+.alert p{
+	color: #A94442;
+}
+.alert .btn1{
+	background: #d9534f;
+	border: 1px solid #d9534f;
+}
+.alert .btn2{
+	background: white;
+	border: 1px solid white;
+}
+.box1 .time {
+	float: right;
+}
+.box2 img {
+	width: 100%;
+	height: 100%;
+}
+#myButtons1 .btn-primary{
+	background: white;
+	margin: 30px auto;
+	border: 1px solid #999595;
+	color: #000000;
+}
+.box3 .list-group{
+	width: 95%;
+	height: 95%;
+	margin: 3% 3% 5% 3%;
+	border: 1px solid lightgray;
+	border-radius: 5px;
+	overflow: hidden;
+	padding:5px;
+}
+.media-heading1{
+	text-align: right;
+}
+.media-body p{
+	text-align: right;
+}
+/*.box3 .media {
+	height: 50%;
+}*/
+.foot{
+	width: 100%;
+	height:100%;
+	text-align: center;
+}
+.foot p{
+    margin: 15px auto 35px auto;	
+    font-size: 15px;
+}
